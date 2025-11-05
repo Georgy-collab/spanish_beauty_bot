@@ -69,3 +69,7 @@
 ---
 Скриншоты работы бота с ИИ-ассистентом в Telegramm:
 ![Скришот 1](https://github.com/Georgy-collab/spanish_beauty_bot/blob/main/%D0%98%D0%98-%D0%B0%D1%81%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BD%D1%82%201.png?raw=true)
+![Скришот 2](https://github.com/Georgy-collab/spanish_beauty_bot/blob/main/%D0%98%D0%98-%D0%B0%D1%81%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BD%D1%82%202.png?raw=true)
+![Скришот 3](https://github.com/Georgy-collab/spanish_beauty_bot/blob/main/%D0%98%D0%98-%D0%B0%D1%81%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BD%D1%82%203.png?raw=true)
+![Скришот 4](https://github.com/Georgy-collab/spanish_beauty_bot/blob/main/%D0%98%D0%98-%D0%B0%D1%81%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BD%D1%82%204.png?raw=true)
+![Скришот 5](https://github.com/Georgy-collab/spanish_beauty_bot/blob/main/%D0%98%D0%98-%D0%B0%D1%81%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BD%D1%82%205.png?raw=true)
